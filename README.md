@@ -14,8 +14,8 @@ Video chat examples based on Streamlit with [`streamlit-webrtc`](https://github.
 
 ## Try it out
 ```shell
-$ pip install streamlit streamlit-webrtc streamlit-server-state opencv-python-headless
-$ streamlit run https://raw.githubusercontent.com/tucommenceapousser/streamlit-video-chat-example/main/app_mcu_filters.py
+pip install streamlit streamlit-webrtc streamlit-server-state opencv-python-headless
+streamlit run https://raw.githubusercontent.com/tucommenceapousser/streamlit-video-chat-example/main/app_mcu_filters.py
 ```
 
 This repository contains various implementations (`app_*.py`) while the example above uses `app_mcu_filters.py`.
